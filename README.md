@@ -21,4 +21,6 @@ Final step is the calculation of radius of curvature and Offset of vehicle from 
 
 ## Sample Output Video
 
+Click on the below preview to view full video.
+
 [![Sample Output Image](SampleOutputImage.png)](https://drive.google.com/file/d/1oSvK7fsRcM-BFxAx663tArcX5b2u9zg7/view?usp=sharing)
