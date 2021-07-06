@@ -20,6 +20,5 @@ The polygon form by 2 second degree polynomials is filled and projected back to 
 Final step is the calculation of radius of curvature and Offset of vehicle from centre. These calculations are carried out using basic calculus and some simple mathematics.
 
 ## Sample Output Video
-<figure class="video_container">
-    <iframe src="https://drive.google.com/file/d/1oSvK7fsRcM-BFxAx663tArcX5b2u9zg7/view?usp=sharing" allowfullscreen="true" frameborder="0"></iframe>
-</figure>
+
+[![Sample Output Image](SampleOutputImage.png)](https://drive.google.com/file/d/1oSvK7fsRcM-BFxAx663tArcX5b2u9zg7/view?usp=sharing)
